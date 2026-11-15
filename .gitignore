@@ -1,0 +1,8 @@
+.tox/
+.pytest_cache/
+venv/
+htmlcov/
+.mypy_cache/
+dist/
+build/
+__pycache__/
